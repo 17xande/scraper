@@ -1,0 +1,3 @@
+# scraper
+
+go scrape things
